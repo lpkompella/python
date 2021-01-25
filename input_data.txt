@@ -1,7 +1,0 @@
-firstname
-Alpha
-Beta
-Julie
-Peter
-Zimba
-Carol
